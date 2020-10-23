@@ -37,6 +37,8 @@ To redact information from a report:
 
 If you have multiple strings that you want to redact, repeat steps 2-6.
 
+Please note, strings located in **internal comments** cannot be redacted.
+
 ### Convert Attachments to Internal-Only
 
 Some reports may have attachments that are accessible to all participants of the report. If you choose to limit access to these attachments, you can convert your attachments to be internal-only so that only internal members of your program can view them.
